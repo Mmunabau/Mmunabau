@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>AWS Solution Architect (Hands-on)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Implementing and Enforcing S3 Bucket Encryption with SSE-S3 and SSE-KMS](https://github.com/Mmunabau/Algorithms-Practice)
 - <b>AWS MACHINE LEARNING </b>
   - [Preparing Data for TF-IDF with spark and EMR](https://github.com/Mmunabau/Preparing-TF-IDF-with-spark-and-EMR-studio/tree/main)) <b></b></i>
 - <b>Python</b>
