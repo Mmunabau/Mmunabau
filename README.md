@@ -6,6 +6,7 @@
   - [Implementing and Enforcing S3 Bucket Encryption with SSE-S3 and SSE-KMS](https://github.com/Mmunabau/-Implementing-S3-Bucket-Encryption-with-SSE-S3-and-SSE-KMS)
 - <b>AWS MACHINE LEARNING </b>
   - [Preparing Data for TF-IDF with spark and EMR](https://github.com/Mmunabau/Preparing-TF-IDF-with-spark-and-EMR-studio/tree/main)) <b></b></i>
+   - [Preparing Data for TF-IDF with spark and EMR](https://github.com/Mmunabau/Preparing-TF-IDF-with-spark-and-EMR-studio/tree/main)) <b></b></i>
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
