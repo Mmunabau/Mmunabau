@@ -8,7 +8,7 @@
 - <b>AWS AI/MACHINE LEARNING </b>
   - [Preparing Data for TF-IDF with spark and EMR](https://github.com/Mmunabau/Preparing-TF-IDF-with-spark-and-EMR-studio/tree/main) <b></b></i>
   - [Employee-Absenteeism-Prediction-Using-AWS-SageMaker-Canvas](https://github.com/Mmunabau/Employee-Absenteeism-Prediction-Using-AWS-SageMaker-Canvas) <b></b></i>
-  - [TUNNING OF CNN WITH EC2](https://github.com/Mmunabau/Preparing-TF-IDF-with-spark-and-EMR-studio/tree/main) <b></b></i>
+  - [TUNNING OF CNN WITH EC2](https://github.com/Mmunabau/TUNNING-OF-CNN-WITH-EC2) <b></b></i>
 - <b>Python</b>
   - [Python-Basic-project )](https://github.com/Mmunabau/phyton-project)
 
