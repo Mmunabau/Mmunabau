@@ -3,11 +3,12 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>AWS Solution Architect (Hands-on)</b>
-  - [Implementing and Enforcing S3 Bucket Encryption with SSE-S3 and SSE-KMS](https://github.com/Mmunabau/-Implementing-S3-Bucket-Encryption-with-SSE-S3-and-SSE-KMS)
-  - [Securing-Content-Delivery-with-Amazon-CloudFront-and-Origin-Access-Control-OAC-](https://github.com/Mmunabau/Securing-Content-Delivery-with-Amazon-CloudFront-and-Origin-Access-Control-OAC-)
+  - [Implementing and Enforcing S3 Bucket Encryption with SSE-S3 and SSE-KMS](https://github.com/Mmunabau/-Implementing-S3-Bucket-Encryption-with-SSE-S3-and-SSE-KMS
+  - [Securing-Content-Delivery-with-Amazon-CloudFront-and-Origin-Access-Control-OAC-](https://github.com/Mmunabau/Securing-Content-Delivery-with-Amazon-CloudFront-and-Origin-Access-Control-OAC-
 - <b>AWS AI/MACHINE LEARNING </b>
   - [Preparing Data for TF-IDF with spark and EMR](https://github.com/Mmunabau/Preparing-TF-IDF-with-spark-and-EMR-studio/tree/main)) <b></b></i>
   - [Employee-Absenteeism-Prediction-Using-AWS-SageMaker-Canvas](https://github.com/Mmunabau/Employee-Absenteeism-Prediction-Using-AWS-SageMaker-Canvas)) <b></b></i>
+  - [TUNNING OF CNN WITH EC2](https://github.com/Mmunabau/Preparing-TF-IDF-with-spark-and-EMR-studio/tree/main)) <b></b></i>
 - <b>Python</b>
   - [Python-Basic-project )](https://github.com/Mmunabau/phyton-project)
 
