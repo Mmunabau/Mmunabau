@@ -5,7 +5,8 @@
 - <b>AWS Solution Architect (Hands-on)</b>
   - [Implementing and Enforcing S3 Bucket Encryption with SSE-S3 and SSE-KMS](https://github.com/Mmunabau/-Implementing-S3-Bucket-Encryption-with-SSE-S3-and-SSE-KMS)
   - [Securing-Content-Delivery-with-Amazon-CloudFront-and-Origin-Access-Control-OAC-](https://github.com/Mmunabau/Securing-Content-Delivery-with-Amazon-CloudFront-and-Origin-Access-Control-OAC-)
-  - [Visualize Data with Quuicksight-](https://github.com/Mmunabau/-Visualize-data-with-QuickSight/blob/main/README.md)
+  - [Visualize Data with Quicksight-](https://github.com/Mmunabau/-Visualize-data-with-QuickSight/blob/main/README.md)
+  - [Hosting a website on s3](https://github.com/Mmunabau/Hosting-a-Website-on-s3/blob/main/README.md)
 - <b>AWS AI/MACHINE LEARNING </b>
   - [Preparing Data for TF-IDF with spark and EMR](https://github.com/Mmunabau/Preparing-TF-IDF-with-spark-and-EMR-studio/tree/main) <b></b></i>
   - [Employee-Absenteeism-Prediction-Using-AWS-SageMaker-Canvas](https://github.com/Mmunabau/Employee-Absenteeism-Prediction-Using-AWS-SageMaker-Canvas) <b></b></i>
