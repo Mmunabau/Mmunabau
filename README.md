@@ -8,6 +8,7 @@
   - [Visualize Data with Quicksight-](https://github.com/Mmunabau/-Visualize-data-with-QuickSight/blob/main/README.md)
   - [Hosting a website on s3](https://github.com/Mmunabau/Hosting-a-Website-on-s3/blob/main/README.md)
   - [Running Docker Container on ElasticBeanstalk](https://github.com/Mmunabau/Running-Docker-containers-on-Elastic-Beanstalk/tree/main)
+  - [Load and Query DynamoDB Tables](https://github.com/Mmunabau/Load-and-Query-DynamoDB-Tables/blob/main/README.md)
 - <b>AWS AI/MACHINE LEARNING </b>
   - [Preparing Data for TF-IDF with spark and EMR](https://github.com/Mmunabau/Preparing-TF-IDF-with-spark-and-EMR-studio/tree/main) <b></b></i>
   - [Employee-Absenteeism-Prediction-Using-AWS-SageMaker-Canvas](https://github.com/Mmunabau/Employee-Absenteeism-Prediction-Using-AWS-SageMaker-Canvas) <b></b></i>
