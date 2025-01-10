@@ -12,6 +12,7 @@
 - <b>AWS AI/MACHINE LEARNING </b>
    - [Build-a-Chatbot-with-Amazon-Lex-1](https://github.com/Mmunabau/-Build-a-Chatbot-with-Amazon-Lex-1-)
    - [Build-a-Chatbot-with-Custom-Slots-2](https://github.com/Mmunabau/Build-a-Chatbot-with-Custom-Slots-2)
+   - [Connect-a-Chatbot-with-Lambda-3](https://github.com/Mmunabau/Connect-a-Chatbot-with-Lambda-3)
   - [Preparing Data for TF-IDF with spark and EMR](https://github.com/Mmunabau/Preparing-TF-IDF-with-spark-and-EMR-studio/tree/main) <b></b></i>
   - [Employee-Absenteeism-Prediction-Using-AWS-SageMaker-Canvas](https://github.com/Mmunabau/Employee-Absenteeism-Prediction-Using-AWS-SageMaker-Canvas) <b></b></i>
   - [TUNNING OF CNN WITH EC2](https://github.com/Mmunabau/TUNNING-OF-CNN-WITH-EC2) <b></b></i>
