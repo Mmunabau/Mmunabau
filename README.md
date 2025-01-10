@@ -10,7 +10,7 @@
   - [Running Docker Container on ElasticBeanstalk](https://github.com/Mmunabau/Running-Docker-containers-on-Elastic-Beanstalk/tree/main)
   - [Load and Query DynamoDB Tables](https://github.com/Mmunabau/Load-and-Query-DynamoDB-Tables/blob/main/README.md)
 - <b>AWS AI/MACHINE LEARNING </b>
-   - [Build-a-Chatbot-with-Amazon-Lex-1](https://github.com/Mmunabau/-Build-a-Chatbot-with-Amazon-Lex-1)
+   - [Build-a-Chatbot-with-Amazon-Lex-1](https://github.com/Mmunabau/-Build-a-Chatbot-with-Amazon-Lex-1-)
   - [Preparing Data for TF-IDF with spark and EMR](https://github.com/Mmunabau/Preparing-TF-IDF-with-spark-and-EMR-studio/tree/main) <b></b></i>
   - [Employee-Absenteeism-Prediction-Using-AWS-SageMaker-Canvas](https://github.com/Mmunabau/Employee-Absenteeism-Prediction-Using-AWS-SageMaker-Canvas) <b></b></i>
   - [TUNNING OF CNN WITH EC2](https://github.com/Mmunabau/TUNNING-OF-CNN-WITH-EC2) <b></b></i>
