@@ -13,6 +13,7 @@
    - [Build-a-Chatbot-with-Amazon-Lex-1](https://github.com/Mmunabau/-Build-a-Chatbot-with-Amazon-Lex-1-)
    - [Build-a-Chatbot-with-Custom-Slots-2](https://github.com/Mmunabau/Build-a-Chatbot-with-Custom-Slots-2)
    - [Connect-a-Chatbot-with-Lambda-3](https://github.com/Mmunabau/Connect-a-Chatbot-with-Lambda-3)
+   - [-Save-User-Info-with-your-Chatbot-4](https://github.com/Mmunabau/-Save-User-Info-with-your-Chatbot)
   - [Preparing Data for TF-IDF with spark and EMR](https://github.com/Mmunabau/Preparing-TF-IDF-with-spark-and-EMR-studio/tree/main) <b></b></i>
   - [Employee-Absenteeism-Prediction-Using-AWS-SageMaker-Canvas](https://github.com/Mmunabau/Employee-Absenteeism-Prediction-Using-AWS-SageMaker-Canvas) <b></b></i>
   - [TUNNING OF CNN WITH EC2](https://github.com/Mmunabau/TUNNING-OF-CNN-WITH-EC2) <b></b></i>
@@ -22,10 +23,6 @@
 <h2>📄Certifications</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
