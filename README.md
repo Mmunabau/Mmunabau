@@ -1,4 +1,4 @@
-<h1>Hi, I'm Muhammed! <br/><a https://github.com/Mmunabau">Programmer</a>, <a href="www.linkedin.com/in/muhammed-ameen-21897824a">AWS SOLUTION ARCHITECT</a>
+<h1>Hi, I'm Muhammed! <br/><a href="https://github.com/Mmunabau">Programmer</a>, <a href="www.linkedin.com/in/muhammed-ameen-21897824a">AWS SOLUTION ARCHITECT</a>
   
 <h2>👨‍💻 Software Development Projects:</h2>
 
