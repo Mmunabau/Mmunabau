@@ -1,22 +1,58 @@
-<h1>Hi, I'm Muhammed! <br/><a href="https://github.com/Mmunabau">Programmer</a>, <a href="https://www.linkedin.com/in/muhammed-ameen-21897824a">AWS SOLUTION ARCHITECT</a>
-  
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2 align="left">Hi 👋! My name is Muhammed and I'm a  Cloud solutions Architect from Nigeria.</h2>
 
-- <b>AWS Solution Architect (Hands-on)</b>
-  - [Implementing and Enforcing S3 Bucket Encryption with SSE-S3 and SSE-KMS](https://github.com/Mmunabau/-Implementing-S3-Bucket-Encryption-with-SSE-S3-and-SSE-KMS)
-  - [Securing-Content-Delivery-with-Amazon-CloudFront-and-Origin-Access-Control-OAC-](https://github.com/Mmunabau/Securing-Content-Delivery-with-Amazon-CloudFront-and-Origin-Access-Control-OAC-)
-  - [Visualize Data with Quicksight-](https://github.com/Mmunabau/-Visualize-data-with-QuickSight/blob/main/README.md)
-  - [Hosting a website on s3](https://github.com/Mmunabau/Hosting-a-Website-on-s3/blob/main/README.md)
-  - [Running Docker Container on ElasticBeanstalk](https://github.com/Mmunabau/Running-Docker-containers-on-Elastic-Beanstalk/tree/main)
-  - [Load and Query DynamoDB Tables](https://github.com/Mmunabau/Load-and-Query-DynamoDB-Tables/blob/main/README.md)
-- <b>AWS AI/MACHINE LEARNING </b>
-   - [Build-a-Chatbot-with-Amazon-Lex-1](https://github.com/Mmunabau/-Build-a-Chatbot-with-Amazon-Lex-1-)
-   - [Build-a-Chatbot-with-Custom-Slots-2](https://github.com/Mmunabau/Build-a-Chatbot-with-Custom-Slots-2)
-   - [Connect-a-Chatbot-with-Lambda-3](https://github.com/Mmunabau/Connect-a-Chatbot-with-Lambda-3)
-   - [Save-User-Info-with-your-Chatbot-4](https://github.com/Mmunabau/-Save-User-Info-with-your-Chatbot)
-   - [Build-a-Chatbot-with-Multiple-Slots-5](https://github.com/Mmunabau/-Build-a-Chatbot-with-Multiple-Slots-5)
-  - [Preparing Data for TF-IDF with spark and EMR](https://github.com/Mmunabau/Preparing-TF-IDF-with-spark-and-EMR-studio/tree/main) <b></b></i>
-  - [Employee-Absenteeism-Prediction-Using-AWS-SageMaker-Canvas](https://github.com/Mmunabau/Employee-Absenteeism-Prediction-Using-AWS-SageMaker-Canvas) <b></b></i>
-  - [TUNNING OF CNN WITH EC2](https://github.com/Mmunabau/TUNNING-OF-CNN-WITH-EC2) <b></b></i>
-- <b>Python</b>
-  - [Python-Basic-project )](https://github.com/Mmunabau/phyton-project)
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mmunabau&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mmunabau&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Mmunabau/Mmunabau/output/snake.svg" alt="Snake animation" />
+
+###
