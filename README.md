@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Muhammed and I'm a  Cloud solutions Architect from Nigeria.</h2>
+<h2 align="left">Hi 👋! My name is Muhammed and I'm a  Cloud solutions Architect and a python programmer.</h2>
 
 ###
 
